@@ -1,0 +1,13 @@
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\azurewebapplication.exe
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\appsettings.Development.json
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\appsettings.json
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\azurewebapplication.dll
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\azurewebapplication.deps.json
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\azurewebapplication.runtimeconfig.json
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\azurewebapplication.pdb
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\System.Data.SqlClient.dll
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\runtimes\win-arm64\native\sni.dll
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\runtimes\win-x64\native\sni.dll
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\runtimes\win-x86\native\sni.dll
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\MyProjects\azurewebapplication\azurewebapplication\bin\Publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

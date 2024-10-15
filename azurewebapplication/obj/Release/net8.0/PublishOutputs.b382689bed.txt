@@ -1,0 +1,7 @@
+F:\MyProjects\azurewebapplication\bin\Publish\azurewebapplication.exe
+F:\MyProjects\azurewebapplication\bin\Publish\appsettings.Development.json
+F:\MyProjects\azurewebapplication\bin\Publish\appsettings.json
+F:\MyProjects\azurewebapplication\bin\Publish\azurewebapplication.dll
+F:\MyProjects\azurewebapplication\bin\Publish\azurewebapplication.deps.json
+F:\MyProjects\azurewebapplication\bin\Publish\azurewebapplication.runtimeconfig.json
+F:\MyProjects\azurewebapplication\bin\Publish\azurewebapplication.pdb
